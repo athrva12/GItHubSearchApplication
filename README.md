@@ -1,6 +1,8 @@
 # GItHubSearchApplication
 An android application to search git repo.
 Api used- https://developer.github.com/v3/search/
+
+
 Libraries used - 
 1.Hilt for Dependency Injection,
 2. Coil for image
